@@ -1,0 +1,16 @@
+body {
+    background-color: aliceblue;
+    }
+    a:visited{
+        color: purple
+    }
+    a:hover{
+        color: green
+    }
+    a:active{
+        color: peachpuff
+    }body {
+        background-image:url
+      .black-text {
+        color: black;
+      }
